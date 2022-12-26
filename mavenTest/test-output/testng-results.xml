@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-26T23:06:28 GMT" name="Suite" finished-at="2022-12-26T23:06:28 GMT" duration-ms="82">
+    <groups>
+    </groups>
+    <test started-at="2022-12-26T23:06:28 GMT" name="Test" finished-at="2022-12-26T23:06:28 GMT" duration-ms="82">
+      <class name="packages.TestCase">
+        <test-method signature="sampleTest()[pri:0, instance:packages.TestCase@2e3967ea]" started-at="2022-12-26T23:06:28 GMT" name="sampleTest" finished-at="2022-12-26T23:06:28 GMT" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+      </class> <!-- packages.TestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
